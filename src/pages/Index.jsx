@@ -11,7 +11,7 @@ const Index = () => {
           Get access to GPT Engineer
         </Heading>
         <Box borderRadius="lg" overflow="hidden" boxShadow="md">
-          <Image src="https://placehold.co/600x400" alt="QR Code" w="300px" h="300px" objectFit="cover" />
+          <Image src="https://i.ibb.co/Ky5Zy2J/qrcode-1.png" alt="QR Code" w="300px" h="300px" objectFit="cover" />
         </Box>
         <Link href={websiteUrl} isExternal color="blue.500" fontSize="xl">
           {websiteUrl}
