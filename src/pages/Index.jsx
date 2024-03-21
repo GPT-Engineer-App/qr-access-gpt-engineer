@@ -8,7 +8,7 @@ const Index = () => {
     <Box bg="gray.100" minH="100vh" p={8}>
       <VStack spacing={8}>
         <Heading as="h1" size="2xl" textAlign="center">
-          Get access to GPT Engineer
+          🚀 Get access to GPT Engineer 🚀
         </Heading>
         <Box borderRadius="lg" overflow="hidden" boxShadow="md">
           <Image src="https://i.ibb.co/51bytMg/QRCode-Monkey.png" alt="QR Code" w="300px" h="300px" objectFit="cover" />
@@ -17,7 +17,7 @@ const Index = () => {
           {websiteUrl}
         </Link>
         <Text fontSize="lg" textAlign="center" maxW="500px">
-          Scan the QR code or click the link above to get access to GPT Engineer, the powerful AI assistant that can help you with all your coding and development needs!
+          👇 Scan the QR code or click the link below 👇 to get access to GPT Engineer, the powerful AI assistant 🤖 that can help you with all your coding and development needs!
         </Text>
       </VStack>
     </Box>
